@@ -1,1 +1,5 @@
-
+This project was done as a freelance project where I was paid to design the electrical aspects for the IoT smart plug,
+which included schematics, component selection, BOM, PCB design, and 3D design.
+The circuit is designed to fetch the weather data from the internet and monitor the lightening hazard.
+Under severe weather conditions the plug would disconned the power from all the appliances connected through it,
+hence ensuring electrical safety.
